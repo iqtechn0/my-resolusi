@@ -5,7 +5,6 @@ My Resolusi
 - Praktik Pembelajaran untuk mengasah Skill Programming
   - CI4, Bootstrap
 
-- Mengikuti forum diskusi
-
-
 - Membuat Aplikasi SPPD
+
+- Mempelajari File yg diberikan Pak Aji
